@@ -1,5 +1,6 @@
 # Starship
-A 2D asteroid shooter
+A 2D asteroid shooter that is made purely with traditional C. Features different enemy entities: Asteroids, Wasps, beetles, and boss beetles. All entities are manually drawn with triangles.
+The player experiences bullet firing, player death, limited lives, and enemy waves. There is a victory and game over condition for the player. Starship has sound effects for each action.
 
 ![Starship Banner](https://github.com/jswilkinSMU/Starship/blob/main/StarshipHeroImage.png)
 
