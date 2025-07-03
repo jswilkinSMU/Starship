@@ -1,6 +1,8 @@
 # Starship
 A 2D asteroid shooter
 
+![Starship Banner](https://github.com/jswilkinSMU/Starship/blob/main/StarshipHeroImage.png)
+
 How to Use:
 
 	Keyboard Controls: 
