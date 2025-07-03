@@ -3,7 +3,7 @@ A 2D asteroid shooter
 
 ![Starship Banner](https://github.com/jswilkinSMU/Starship/blob/main/StarshipHeroImage.png)
 
-How to Use:
+### How to Use:
 
 	Keyboard Controls: 
 		- Hold down E to accelerate your Ship. 
@@ -27,7 +27,7 @@ How to Use:
 		- Hit F1 to bring up debug rings and lines to check the entities.
 		- Hit the F8 key to reset the game.
 
-Build and Use:
+### Build and Use:
 
 	1. Download and Extract the zip folder.
 	2. Open the Run folder.
