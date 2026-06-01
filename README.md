@@ -4,6 +4,14 @@ The player experiences bullet firing, player death, limited lives, and enemy wav
 
 ![Starship Banner](https://github.com/jswilkinSMU/Starship/blob/main/StarshipHeroImage.png)
 
+## Engine
+
+This project is powered by my custom game engine:
+
+- **WilkinEngine**: https://github.com/jswilkinSMU/WilkinEngine
+
+The engine handles rendering, input, audio, and asset management.
+
 ### How to Use:
 
 	Keyboard Controls: 
